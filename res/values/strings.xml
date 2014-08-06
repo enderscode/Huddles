@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- Main -->
+    <string name="app_name">Huddles</string>
+    
+    <!-- Util -->
+    <string name="ok">OK</string>
+    <string name="close">Close</string>
+    
+    <!-- Menu -->
+    <string name="menu_create">Create</string>
+    <string name="menu_send">Send</string>
+    
+    <!-- Request Huddle -->
+    <string name="huddle_label">Insert an article id: </string>
+    <string name="submit">Submit</string>
+    
+    <!-- Huddle fragment -->
+    <string name="huddle_title">Create a Huddle</string>
+    <string name="team_likes">Likes</string>
+    
+    <!-- Huddle message -->
+    <string name="huddle_message">Hi! I have started a Huddle and I like you to join in via Fanatix</string>
+    <string name="huddle_info">We\'ll send this invitation to: </string>
+
+</resources>
